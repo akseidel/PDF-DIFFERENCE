@@ -19,10 +19,15 @@ files such that the differences between the two show in the color red.
 ### Example
 
 Say the before PDF looks like this:
+
 ![](PDF-DIFFERENCE/DocImages/PDF_Delta_Before.png)
+
 And the after PDF looks like this:
+
 ![](PDF-DIFFERENCE/DocImages/PDF_Delta_After.png)
+
 Then PDF-DIFFERNCE results look like this:
+
 ![](PDF-DIFFERENCE/DocImages/Composite_PDF_Delta_After_and_PDF_Delta_Before.png)
 
 PDF-DIFFERNCE creates a log file of what it did. The log contains the ImageMagick commands executed in the process. GhostScript is used internally from ImageMagick for some of the process steps.
