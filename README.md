@@ -1,5 +1,4 @@
-![](PDF-DIFFERENCE/Icon/PDF_Delta.ico)
-# PDF-DIFFERENCE  
+# PDF-DIFFERENCE-![](PDF-DIFFERENCE/Icon/PDF_Delta.ico)
 
 - PDF-Difference uses both ImageMagick and GhostScript to combine the contents of two PDF
 files such that the differences between the two show in the color red.
