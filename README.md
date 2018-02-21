@@ -3,7 +3,7 @@
 - PDF-Difference uses both ImageMagick and GhostScript to combine the contents of two PDF
 files such that the differences between the two show in the color red.
 
-- The application is intended for use with pairs of PDF construction drawing plan sheets of the shame sheet number where one plan sheet contains revisions that may not be documented. The application combines the information from the two sheets. What is different between the sheets shows up in the color red.
+- The application is intended for use with pairs of PDF construction drawing plan sheets of the same sheet number where one plan sheet contains revisions that may not be documented. The application combines the information from the two sheets. What is different between the sheets shows up in the color red.
 
 ![](PDF-DIFFERENCE/DocImages/PDF-DIFFERENCE_01.PNG)
 
